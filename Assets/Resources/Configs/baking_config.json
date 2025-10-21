@@ -1,0 +1,9 @@
+{
+  "upgradeLevels": [
+    { "level": 1, "bakeDuration": 2.7, "maxStack": 5, "price": 15 },
+    { "level": 2, "bakeDuration": 2.4, "maxStack": 6, "price": 150 },
+    { "level": 3, "bakeDuration": 2.1, "maxStack": 7, "price": 300 },
+    { "level": 4, "bakeDuration": 1.8, "maxStack": 8, "price": 600 },
+    { "level": 5, "bakeDuration": 1.5, "maxStack": 9, "price": 1200 }
+  ]
+}
